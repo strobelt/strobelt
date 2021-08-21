@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Luiz Strobelt! <img src="https://api.visitorbadge.io/api/visitors?path=strobelt%2Fstrobelt&label=Views&labelColor=%23310178&countColor=%23555555"/></h1>
+<h1 align="center">
+  Hi, I'm Luiz Strobelt!
+  <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="30"/>
+</h1>
 <h3 align="center">
   A full-stack developer from Brasil that loves to solve problems and help
   people!
@@ -182,17 +185,29 @@
   </a>
 </p>
 
-<p align="center"> 
-  <a href="https://twitter.com/luizstrobelt" target="blank"
+<p align="center">
+   <img
+      align="center"
+      src="https://api.visitorbadge.io/api/visitors?path=strobelt%2Fstrobelt&label=Views&labelColor=%23310178&countColor=%23555555"
+      height="30"
+  />
+  <a href="https://twitter.com/luizstrobelt" target="_blank"
     ><img
       align="center"
-      src="https://img.shields.io/twitter/follow/luizstrobelt?color=1DA1F2&label=%20&logo=twitter&logoColor=white&style=for-the-badge"
+      src="https://custom-icon-badges.herokuapp.com/twitter/follow/luizstrobelt?color=56B6F2&labelColor=1DA1F2&style=for-the-badge&logo=twitter&label=Follow+&logoColor=white"
       alt="Twitter @luizstrobelt"
   /></a>
-  <a href="https://linkedin.com/in/luiz-strobelt" target="blank"
+  <a href="https://linkedin.com/in/luiz-strobelt" target="_blank"
     ><img
       align="center"
-      src="https://img.shields.io/badge/396-blue?style=for-the-badge&logo=linkedin&llogoColor=white"
+      src="https://custom-icon-badges.herokuapp.com/badge/custom-396-blue.svg?color=2C77C2&labelColor=0A66C2&style=for-the-badge&logo=linkedin&label=Connect&logoColor=white"
       alt="LinkedIn @luiz-strobelt"
+  /></a>
+  <a href="https://dev.to/strobelt" target="_blank"
+    ><img
+      align="center"
+      src="https://custom-icon-badges.herokuapp.com/badge/custom-1-black.svg?color=555&labelColor=000000&style=for-the-badge&logo=devdotto&label=Posts&logoColor=white"
+      alt="DEV.TO @strobelt"
+      height="30"
   /></a>
 </p>
