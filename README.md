@@ -19,11 +19,11 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=strobelt&show_icons=true&theme=react&hide_border=true&locale=en&layout=compact&bg_color=14,15013c,8c03b1,8c0b65&border_radius=0"
-    height="180"
+    height="160"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=strobelt&show_icons=true&theme=react&hide_border=true&locale=en&bg_color=14,8c0b65,8c03b1,15013c&count_private=true&hide=issues&border_radius=0"
-    height="180"
+    height="160"
   />
 </p>
 
