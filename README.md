@@ -216,3 +216,8 @@
     <img align="center" src="https://images.credly.com/size/340x340/images/ee5c6b36-a466-43e7-b68a-af13f8b2a6b7/Hacktoberfest_Contributor_69_.png" alt="MS Contributor Badge" height="100">
   </a>
 </p>
+<p align="center">
+  <a href="https://holopin.io/@strobelt">
+    <img width="700" align="center" src="https://holopin.me/strobelt" alt="My Holopin Board"> 
+  </a>
+</p>
