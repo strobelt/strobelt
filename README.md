@@ -1,4 +1,3 @@
-<a rel="me" href="https://hachyderm.io/@strobelt">Mastodon</a>
 <h1 align="center">
   Hi, I'm Luiz Strobelt!
   <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" height="30"/>
